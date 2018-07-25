@@ -1,0 +1,18 @@
+.secret-name-editor {
+  padding: 1rem;
+}
+
+.secret-name-editor__input-group {
+  margin-bottom: 1rem;
+}
+
+.secret-name-editor___label {
+  margin-bottom: .5rem;
+  color: gray;
+  font-size: .75rem;
+  text-transform: uppercase;
+}
+
+.secret-name-editor___input {
+  border: 1px solid black;
+}
